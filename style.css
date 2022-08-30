@@ -13,11 +13,27 @@ body {
 }
 
 .midbackground {
-    background-color: #536d93;
+    background-color: #495f83;
     color: white;
     padding-top: 5px;
     padding-bottom: 80px;
 }
+
+.lowerbackground {
+    display: flex;
+    justify-content: center;
+    background-color: #7c92b6;
+    color: white;
+    padding-top: 70px;
+}
+
+.text {
+    width: 1200px;
+    height: 280px;
+    font-size: 36px;
+    padding-bottom: 20px;
+}
+
 .header {
     display: flex;
     justify-content: space-around;
