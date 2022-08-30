@@ -27,6 +27,29 @@ body {
     padding-top: 70px;
 }
 
+.container2 {
+    border-radius: 10px;
+    background-color: #495f83;
+    height: 150px;
+    margin-left: 13cm;
+    margin-right: 13cm;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    position: relative;
+}
+
+.bottomtext {
+    color: white;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+.bottomtext button {
+    display: flex;
+    justify-content: center;
+    margin: -4.5rem 100px 0 auto;
+}
+
 .text {
     width: 1200px;
     height: 280px;
@@ -52,9 +75,9 @@ body {
 ul {
     display: flex;
     list-style-type: none;
-    margin-top: 10px;
+    margin-top: 20px;
     padding: 0px;
-    gap: 16px;
+    gap: 20px;
     font-size: 25px;
     color: white;
 }
